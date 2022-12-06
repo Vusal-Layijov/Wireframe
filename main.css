@@ -36,7 +36,9 @@ padding: 15px;
 }
 
 .nav_lower{
-
+display: flex;
+justify-content: space-evenly;
+padding: 5px;
 }
 
 .content{
@@ -46,4 +48,18 @@ padding: 15px;
     flex-direction: column;
     margin: 0 auto;
     
+}
+.footer{
+    display: flex;
+justify-content: space-between;
+width: 50%;
+margin:0 auto;
+padding: 15px;
+}
+.grid{
+    display: flex;
+    width: 50%;
+    justify-content: space-between;
+    margin: 0 auto;
+        padding: 15px;
 }
