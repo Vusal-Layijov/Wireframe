@@ -1,0 +1,49 @@
+html,
+body{
+font-style: italic;
+}
+
+.nav__upper, .nav__lower{
+display: flex;
+justify-content: space-between;
+width: 50%;
+margin:0 auto;
+padding: 15px;
+
+}
+.upper__left{
+    height: 30px;
+    width: 30px;
+}
+
+.upper__right{
+    /* display: flex; */
+}
+
+.sign-in{
+    
+}
+
+.get-started{
+    
+    color: green;
+    padding: 5px 16px 10px
+    
+}
+
+.nav_lower{
+
+}
+
+.nav_lower{
+
+}
+
+.content{
+    width: 40%;
+    justify-content: center;
+    display:flex;
+    flex-direction: column;
+    margin: 0 auto;
+    
+}
